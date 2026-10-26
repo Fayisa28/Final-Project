@@ -89,6 +89,7 @@ SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
 SMTP_USER = os.getenv("SMTP_USER", "")
 SMTP_PASS = os.getenv("SMTP_PASS", "")
 SMTP_FROM = os.getenv("SMTP_FROM", SMTP_USER or "thejobhuntergh@gmail.com")
+SMTP_TIMEOUT = int(os.getenv("SMTP_TIMEOUT", "8"))
 EMAIL_LIVE = bool(SMTP_HOST and SMTP_USER and SMTP_PASS)
 
 # ---------------- Server-side user data ----------------
@@ -170,7 +171,7 @@ def send_code(email, purpose):
             msg.set_content(body)
             msg.add_alternative(f"<div style='font-family:Arial,sans-serif'><h2 style='color:#0B5D3B'>Job Hunter Africa</h2><p>Your code is:</p>"
                                 f"<p style='font-size:30px;letter-spacing:8px;font-weight:bold'>{code}</p><p>It expires in 10 minutes. Never share this code.</p></div>", subtype="html")
-            with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=20) as s:
+            with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=SMTP_TIMEOUT) as s:
                 s.starttls(context=ssl.create_default_context()); s.login(SMTP_USER, SMTP_PASS); s.send_message(msg)
             return "email"
         except Exception as e:
