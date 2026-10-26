@@ -1,0 +1,11 @@
+# secrets & private data — never commit
+.env
+data/users.json
+data/*.tmp
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+data/app.db
+data/cvs/

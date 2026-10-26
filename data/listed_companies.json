@@ -1,0 +1,7012 @@
+[
+ {
+  "x": "GSE",
+  "n": "Ghana Stock Exchange",
+  "cc": "GH",
+  "f": "🇬🇭",
+  "src": "https://gse.com.gh/listed-companies/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "Access Bank Ghana Plc",
+    "ACCESS",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Agricultural Development Bank",
+    "ADB",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Aluworks Ltd",
+    "ALW",
+    "Manufacturing",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "AngloGold Ashanti Plc",
+    "AGA",
+    "Mining",
+    "GB",
+    "",
+    0
+   ],
+   [
+    "Asante Gold Corporation",
+    "ASG",
+    "Mining",
+    "CA",
+    "",
+    0
+   ],
+   [
+    "Atlantic Lithium Limited",
+    "ALLGH",
+    "Mining",
+    "AU",
+    "",
+    0
+   ],
+   [
+    "Benso Oil Palm Plantation Ltd",
+    "BOPP",
+    "Agriculture",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "CalBank PLC",
+    "CAL",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Camelot Ghana Ltd",
+    "CMLT",
+    "Media",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Clydestone (Ghana) Limited",
+    "CLYD",
+    "Technology",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Cocoa Processing Company",
+    "CPC",
+    "Manufacturing",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Dannex Ayrton Starwin Plc",
+    "DASPHARMA",
+    "Healthcare",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Digicut Advertising and Production Limited",
+    "DIGICUT",
+    "Media",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Ecobank Ghana PLC",
+    "EGH",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Ecobank Transnational Incorporated",
+    "ETI",
+    "Banking",
+    "TG",
+    "",
+    0
+   ],
+   [
+    "Enterprise Group PLC",
+    "EGL",
+    "Insurance",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Fan Milk Limited",
+    "FML",
+    "Consumer Goods",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "First Atlantic Bank PLC",
+    "FAB",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "GCB Bank PLC (Ghana Commercial Bank)",
+    "GCB",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "GOIL PLC",
+    "GOIL",
+    "Energy",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Guinness Ghana Breweries Plc",
+    "GGBL",
+    "Consumer Goods",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "HORDS Ltd",
+    "HORDS",
+    "Healthcare",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Intravenous Infusions PLC",
+    "IIL",
+    "Healthcare",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Kasapreko PLC",
+    "KASA",
+    "Consumer Goods",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Mega African Capital Limited",
+    "MAC",
+    "Investment",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Meridian-Marshalls Holdings",
+    "MMH",
+    "Investment",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "MTN Ghana",
+    "MTNGH",
+    "Telecommunications",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Produce Buying Company Ltd",
+    "PBC",
+    "Agriculture",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Republic Bank (Ghana) PLC",
+    "RBGH",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Sam Wood Ltd",
+    "SWL",
+    "Manufacturing",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Samba Foods Ltd",
+    "SAMBA",
+    "Consumer Goods",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "SIC Insurance Company Limited",
+    "SIC",
+    "Insurance",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Societe Generale Ghana",
+    "SOGEGH",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Standard Chartered Bank Ghana PLC",
+    "SCB",
+    "Banking",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Ghana PLC",
+    "TOTAL",
+    "Energy",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "Trust Bank Limited (The Gambia)",
+    "TBL",
+    "Banking",
+    "GM",
+    "",
+    0
+   ],
+   [
+    "Tullow Oil Plc",
+    "TLW",
+    "Energy",
+    "GB",
+    "",
+    0
+   ],
+   [
+    "Unilever Ghana PLC",
+    "UNIL",
+    "Consumer Goods",
+    "GH",
+    "",
+    0
+   ],
+   [
+    "ZEN Petroleum Holdings PLC",
+    "ZEN",
+    "Energy",
+    "GH",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "NGX",
+  "n": "Nigerian Exchange (NGX)",
+  "cc": "NG",
+  "f": "🇳🇬",
+  "src": "https://stockanalysis.com/list/nigerian-stock-exchange/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "Abbey Mortgage Bank Plc",
+    "ABBEYBANK",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "ABC Transport Plc",
+    "ABCTRANS",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Academy Press Plc",
+    "ACADEMY",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Access Holdings Plc",
+    "ACCESSCORP",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Africa Prudential Plc",
+    "AFRIPRUD",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "African Alliance Insurance Plc",
+    "AFRINSURE",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Afromedia Plc",
+    "AFROMEDIA",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "AIICO Insurance Plc",
+    "AIICO",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Airtel Africa Plc",
+    "AIRTELAFRI",
+    "Telecommunications",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Aluminium Extrusion Industries Plc",
+    "ALEX",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Aradel Holdings Plc",
+    "ARADEL",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Aso Savings and Loans Plc",
+    "ASOSAVINGS",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Austin Laz & Company Plc",
+    "AUSTINLAZ",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ava Capital Plc",
+    "AVACAP",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "AXA Mansard Insurance Plc",
+    "MANSARD",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Berger Paints Nigeria Plc",
+    "BERGER",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Beta Glass Plc",
+    "BETAGLAS",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Briclinks Africa Plc",
+    "BAPLC",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "BUA Cement Plc",
+    "BUACEMENT",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "BUA Foods Plc",
+    "BUAFOODS",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "C & I Leasing Plc",
+    "CILEASING",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Cadbury Nigeria Plc",
+    "CADBURY",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Caverton Offshore Support Group Plc",
+    "CAVERTON",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Champion Breweries Plc",
+    "CHAMPION",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Chams Holding Company Plc",
+    "CHAMS",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Chellarams Plc",
+    "CHELLARAM",
+    "Conglomerates",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Chemical and Allied Products Plc",
+    "CAP",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Conoil Plc",
+    "CONOIL",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Consolidated Hallmark Holdings Plc",
+    "CONHALLPLC",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Cornerstone Insurance Plc",
+    "CORNERST",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Coronation Insurance Plc",
+    "WAPIC",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Critical Minerals Financing Corporation Plc (formerly DEAP Capital Management & Trust Plc)",
+    "CMFC",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Custodian Investment Plc",
+    "CUSTODIAN",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Cutix Plc",
+    "CUTIX",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "CWG Plc",
+    "CWG",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Daar Communications Plc",
+    "DAARCOMM",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Dangote Cement Plc",
+    "DANGCEM",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Dangote Sugar Refinery Plc",
+    "DANGSUGAR",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ecobank Transnational Incorporated",
+    "ETI",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ekocorp Plc",
+    "EKOCORP",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ellah Lakes Plc",
+    "ELLAHLAKES",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Eterna Plc",
+    "ETERNA",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "eTranzact International Plc",
+    "ETRANZACT",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Eunisell Interlinked Plc",
+    "EUNISELL",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "FCMB Group Plc",
+    "FCMB",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Fidelity Bank Plc",
+    "FIDELITYBK",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Fidson Healthcare Plc",
+    "FIDSON",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "First HoldCo Plc",
+    "FIRSTHOLDCO",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Fortis Global Insurance Plc",
+    "FTGINSURE",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "FTN Cocoa Processors Plc",
+    "FTNCOCOA",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Geregu Power Plc",
+    "GEREGU",
+    "Utilities",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Golden Guinea Breweries Plc",
+    "GOLDBREW",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Guaranty Trust Holding Company Plc",
+    "GTCO",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Guinea Insurance Plc",
+    "GUINEAINS",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Guinness Nigeria Plc",
+    "GUINNESS",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Haldane McCall Plc",
+    "HMCALL",
+    "Real Estate",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "HBM Nigeria Plc (formerly Lafarge Africa Plc)",
+    "HBMNG",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Honeywell Flour Mills Plc",
+    "HONYFLOUR",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ikeja Hotel Plc",
+    "IKEJAHOTEL",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Industrial and Medical Gases Nigeria Plc",
+    "IMG",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Infinity Trust Mortgage Bank Plc",
+    "INFINITY",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "International Breweries Plc",
+    "INTBREW",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "International Energy Insurance Plc",
+    "INTENEGINS",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Jaiz Bank Plc",
+    "JAIZBANK",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Japaul Gold & Ventures Plc",
+    "JAPAULGOLD",
+    "Natural Resources",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "John Holt Plc",
+    "JOHNHOLT",
+    "Conglomerates",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Juli Plc",
+    "JULI",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Julius Berger Nigeria Plc",
+    "JBERGER",
+    "Construction",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "LASACO Assurance Plc",
+    "LASACO",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Learn Africa Plc",
+    "LEARNAFRCA",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Legend Internet Plc",
+    "LEGENDINT",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Linkage Assurance Plc",
+    "LINKASSURE",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Livestock Feeds Plc",
+    "LIVESTOCK",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Livingtrust Mortgage Bank Plc",
+    "LIVINGTRUST",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "May & Baker Nigeria Plc",
+    "MAYBAKER",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "McNichols Plc",
+    "MCNICHOLS",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Mecure Industries Plc",
+    "MECURE",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Meyer Plc",
+    "MEYER",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Morison Industries Plc",
+    "MORISON",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "MTN Nigeria Communications Plc",
+    "MTNN",
+    "Telecommunications",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Multi-Trex Integrated Foods Plc",
+    "MULTITREX",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Multiverse Mining and Exploration Plc",
+    "MULTIVERSE",
+    "Natural Resources",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Mutual Benefits Assurance Plc",
+    "MBENEFIT",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "NASCON Allied Industries Plc",
+    "NASCON",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "NCR (Nigeria) Plc",
+    "NCR",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Neimeth International Pharmaceuticals Plc",
+    "NEIMETH",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "NEM Insurance Plc",
+    "NEM",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Nestle Nigeria Plc",
+    "NESTLE",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Nigerian Aviation Handling Company Plc",
+    "NAHCO",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Nigerian Breweries Plc",
+    "NB",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Nigerian Enamelware Plc",
+    "ENAMELWA",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Nigerian Exchange Group Plc",
+    "NGXGROUP",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Northern Nigeria Flour Mills Plc",
+    "NNFM",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "NPF Microfinance Bank Plc",
+    "NPFMCRFBK",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Oando Plc",
+    "OANDO",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Omatek Ventures Plc",
+    "OMATEK",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Pharma-Deko Plc",
+    "PHARMDEKO",
+    "Healthcare",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Premier Paints Plc",
+    "PREMPAINTS",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Presco Plc",
+    "PRESCO",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Prestige Assurance Plc",
+    "PRESTIGE",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "PZ Cussons Nigeria Plc",
+    "PZ",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "R.T. Briscoe (Nigeria) Plc",
+    "RTBRISCOE",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Red Star Express Plc",
+    "REDSTAREX",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Regency Alliance Insurance Plc",
+    "REGALINS",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Ronchess Global Resources Plc",
+    "RONCHESS",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Royal Exchange Plc",
+    "ROYALEX",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "SCOA Nigeria Plc",
+    "SCOA",
+    "Conglomerates",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Secure Electronic Technology Plc",
+    "NSLTECH",
+    "ICT",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Seplat Energy Plc",
+    "SEPLAT",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Skyway Aviation Handling Company Plc",
+    "SKYAVN",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Sovereign Trust Insurance Plc",
+    "SOVRENINS",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "STACO Insurance Plc (Standard Trust Assurance)",
+    "STACO",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Stanbic IBTC Holdings Plc",
+    "STANBIC",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Sterling Financial Holdings Company Plc",
+    "STERLINGNG",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Sunu Assurances Nigeria Plc",
+    "SUNUASSUR",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Tantalizers Plc",
+    "TANTALIZER",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "The Initiates Plc",
+    "TIP",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "The Okomu Oil Palm Company Plc",
+    "OKOMUOIL",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Thomas Wyatt Nigeria Plc",
+    "THOMASWY",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Marketing Nigeria Plc",
+    "TOTAL",
+    "Oil & Gas",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Trans-Nationwide Express Plc",
+    "TRANSEXPR",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Transcorp Hotels Plc",
+    "TRANSCOHOT",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Transcorp Power Plc",
+    "TRANSPOWER",
+    "Utilities",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Transnational Corporation Plc",
+    "TRANSCORP",
+    "Conglomerates",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Tripple Gee & Company Plc",
+    "TRIPPLEG",
+    "Industrial Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "UAC of Nigeria Plc",
+    "UACN",
+    "Conglomerates",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Unilever Nigeria Plc",
+    "UNILEVER",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Union Dicon Salt Plc",
+    "UNIONDICON",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "United Bank for Africa Plc",
+    "UBA",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "United Capital Plc",
+    "UCAP",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Unity Bank Plc",
+    "UNITYBNK",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Universal Insurance Plc",
+    "UNIVINSURE",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "University Press Plc",
+    "UPL",
+    "Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "UPDC Plc",
+    "UPDC",
+    "Real Estate",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Veritas Kapital Assurance Plc",
+    "VERITASKAP",
+    "Insurance",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "VFD Group Plc",
+    "VFDGROUP",
+    "Financial Services",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Vitafoam Nigeria Plc",
+    "VITAFOAM",
+    "Consumer Goods",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Wema Bank Plc",
+    "WEMABANK",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Zenith Bank Plc",
+    "ZENITHBANK",
+    "Banking",
+    "NG",
+    "",
+    0
+   ],
+   [
+    "Zichis Agro Allied Industries Plc",
+    "ZICHIS",
+    "Agriculture",
+    "NG",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "BRVM",
+  "n": "Bourse Regionale des Valeurs Mobilieres",
+  "cc": "CI",
+  "f": "🇨🇮",
+  "src": "https://www.brvm.org/en/cours-actions/0",
+  "asOf": "2026-10-23",
+  "rows": [
+   [
+    "Africa Global Logistics Cote d'Ivoire",
+    "SDSC",
+    "Transport",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Benin",
+    "BOAB",
+    "Banking",
+    "BJ",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Burkina Faso",
+    "BOABF",
+    "Banking",
+    "BF",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Cote d'Ivoire",
+    "BOAC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Mali",
+    "BOAM",
+    "Banking",
+    "ML",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Niger",
+    "BOAN",
+    "Banking",
+    "NE",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa Senegal",
+    "BOAS",
+    "Banking",
+    "SN",
+    "",
+    0
+   ],
+   [
+    "Banque Internationale pour l'Industrie et le Commerce du Benin",
+    "BICB",
+    "Banking",
+    "BJ",
+    "",
+    0
+   ],
+   [
+    "Bernabe Cote d'Ivoire",
+    "BNBC",
+    "Retail",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "BICI Cote d'Ivoire",
+    "BICC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Bridge Bank Group Cote d'Ivoire",
+    "BBGC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "CFAO Motors Cote d'Ivoire",
+    "CFAC",
+    "Retail",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "CIE Cote d'Ivoire",
+    "CIEC",
+    "Utilities",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Coris Bank International Burkina Faso",
+    "CBIBF",
+    "Banking",
+    "BF",
+    "",
+    0
+   ],
+   [
+    "Ecobank Cote d'Ivoire",
+    "ECOC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Ecobank Transnational Incorporated Togo",
+    "ETIT",
+    "Banking",
+    "TG",
+    "",
+    0
+   ],
+   [
+    "Erium Cote d'Ivoire",
+    "SIVC",
+    "Manufacturing",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Eviosys Packaging SIEM Cote d'Ivoire",
+    "SEMC",
+    "Manufacturing",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Filtisac Cote d'Ivoire",
+    "FTSC",
+    "Manufacturing",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Loterie Nationale du Benin",
+    "LNBB",
+    "Gaming",
+    "BJ",
+    "",
+    0
+   ],
+   [
+    "NEI-CEDA Cote d'Ivoire",
+    "NEIC",
+    "Media",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Nestle Cote d'Ivoire",
+    "NTLC",
+    "Consumer Goods",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "NSIA Banque Cote d'Ivoire",
+    "NSBC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Onatel Burkina Faso",
+    "ONTBF",
+    "Telecommunications",
+    "BF",
+    "",
+    0
+   ],
+   [
+    "Oragroup Togo",
+    "ORGT",
+    "Banking",
+    "TG",
+    "",
+    0
+   ],
+   [
+    "Orange Cote d'Ivoire",
+    "ORAC",
+    "Telecommunications",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Palm Cote d'Ivoire",
+    "PALC",
+    "Agriculture",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SAFCA Cote d'Ivoire",
+    "SAFC",
+    "Financial Services",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SAPH Cote d'Ivoire",
+    "SPHC",
+    "Agriculture",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Servair Abidjan Cote d'Ivoire",
+    "ABJC",
+    "Transport",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SETAO Cote d'Ivoire",
+    "STAC",
+    "Construction",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Sicable Cote d'Ivoire",
+    "CABC",
+    "Manufacturing",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SICOR Cote d'Ivoire",
+    "SICC",
+    "Agriculture",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SITAB Cote d'Ivoire",
+    "STBC",
+    "Consumer Goods",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SMB Cote d'Ivoire",
+    "SMBC",
+    "Energy",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Societe Generale Cote d'Ivoire",
+    "SGBC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Societe Ivoirienne de Banque Cote d'Ivoire",
+    "SIBC",
+    "Banking",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SODE Cote d'Ivoire (SODECI)",
+    "SDCC",
+    "Utilities",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "SOGB Cote d'Ivoire",
+    "SOGC",
+    "Agriculture",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Solibra Cote d'Ivoire",
+    "SLBC",
+    "Consumer Goods",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Sonatel Senegal",
+    "SNTS",
+    "Telecommunications",
+    "SN",
+    "",
+    0
+   ],
+   [
+    "Sucrivoire Cote d'Ivoire",
+    "SCRC",
+    "Agriculture",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Marketing Cote d'Ivoire",
+    "TTLC",
+    "Energy",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Marketing Senegal",
+    "TTLS",
+    "Energy",
+    "SN",
+    "",
+    0
+   ],
+   [
+    "Tractafric Motors Cote d'Ivoire",
+    "PRSC",
+    "Retail",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Unilever Cote d'Ivoire",
+    "UNLC",
+    "Consumer Goods",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Uniwax Cote d'Ivoire",
+    "UNXC",
+    "Manufacturing",
+    "CI",
+    "",
+    0
+   ],
+   [
+    "Vivo Energy Cote d'Ivoire",
+    "SHEC",
+    "Energy",
+    "CI",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "NSE",
+  "n": "Nairobi Securities Exchange",
+  "cc": "KE",
+  "f": "🇰🇪",
+  "src": "https://www.nse.co.ke/listed-companies/",
+  "asOf": "2026-06-29",
+  "rows": [
+   [
+    "Absa Bank Kenya PLC",
+    "ABSA",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Africa Mega Agricorp PLC (formerly Kenya Orchards)",
+    "AMAC",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Athi River Mining (ARM Cement)",
+    "ARM",
+    "Construction",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "B.O.C Kenya Ltd",
+    "BOC",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Bamburi Cement PLC",
+    "BAMB",
+    "Construction",
+    "KE",
+    "suspended",
+    0
+   ],
+   [
+    "BK Group PLC",
+    "BKG",
+    "Banking",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "Britam Holdings Ltd",
+    "BRIT",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "British American Tobacco Kenya Ltd",
+    "BAT",
+    "Consumer Goods",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Car and General (K) Ltd",
+    "CGEN",
+    "Retail",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Carbacid Investments Ltd",
+    "CARB",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Centum Investment Co Ltd",
+    "CTUM",
+    "Investment",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "CIC Insurance Group Ltd",
+    "CIC",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Crown Paints Kenya PLC",
+    "CRWN",
+    "Construction",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Deacons (East Africa) Plc",
+    "DCON",
+    "Retail",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Diamond Trust Bank Kenya Ltd",
+    "DTK",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "E.A. Cables PLC",
+    "CABL",
+    "Construction",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "E.A. Portland Cement Ltd",
+    "PORT",
+    "Construction",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Eaagads Ltd",
+    "EGAD",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "East African Breweries Ltd",
+    "EABL",
+    "Consumer Goods",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Equity Group Holdings",
+    "EQTY",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Eveready East Africa Ltd",
+    "EVRD",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Express Kenya Ltd",
+    "XPRS",
+    "Transport",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Family Bank Limited",
+    "FMLY",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Flame Tree Group Holdings Ltd",
+    "FTGH",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "HF Group Ltd",
+    "HFCK",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Home Afrika Ltd",
+    "HAFR",
+    "Real Estate",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Homeboyz Entertainment PLC",
+    "HBE",
+    "Media",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "I&M Holdings Ltd",
+    "IMH",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Jubilee Holdings Ltd",
+    "JUB",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kakuzi PLC",
+    "KUKZ",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kapchorua Tea Co. Ltd",
+    "KAPC",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "KCB Group Ltd",
+    "KCB",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "KenGen Ltd",
+    "KEGN",
+    "Utilities",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kenya Airways Ltd",
+    "KQ",
+    "Transport",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kenya Pipeline Company",
+    "KPC",
+    "Energy",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kenya Power & Lighting Co Ltd",
+    "KPLC",
+    "Utilities",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kenya Re-Insurance Corporation Ltd",
+    "KNRE",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Kurwitu Ventures",
+    "KURV",
+    "Investment",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Liberty Kenya Holdings Ltd",
+    "LBTY",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Limuru Tea Co. Ltd",
+    "LIMT",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Longhorn Publishers Ltd",
+    "LKL",
+    "Media",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Mumias Sugar Co. Ltd",
+    "MSC",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Nairobi Business Ventures Ltd",
+    "NBV",
+    "Retail",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Nairobi Securities Exchange PLC",
+    "NSE",
+    "Financial Services",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Nation Media Group",
+    "NMG",
+    "Media",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "NCBA Group PLC",
+    "NCBA",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Olympia Capital Holdings Ltd",
+    "OCH",
+    "Investment",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Safaricom PLC",
+    "SCOM",
+    "Telecommunications",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Sameer Africa PLC",
+    "SMER",
+    "Real Estate",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Sanlam Allianz Holdings (Kenya) PLC",
+    "SLAM",
+    "Insurance",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Sasini Ltd",
+    "SASN",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Shri Krishana Overseas",
+    "SKL",
+    "Manufacturing",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Stanbic Holdings Plc",
+    "SBIC",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Standard Chartered Bank Kenya Ltd",
+    "SCBK",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Standard Group Ltd",
+    "SGL",
+    "Media",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "The Co-operative Bank of Kenya Ltd",
+    "COOP",
+    "Banking",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Marketing Kenya Ltd",
+    "TOTL",
+    "Energy",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "TPS Eastern Africa (Serena) Ltd",
+    "TPSE",
+    "Hospitality",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Trans-Century Ltd",
+    "TCL",
+    "Investment",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Uchumi Supermarket Ltd",
+    "UCHM",
+    "Retail",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Umeme Ltd",
+    "UMME",
+    "Utilities",
+    "UG",
+    "",
+    0
+   ],
+   [
+    "Unga Group Ltd",
+    "UNGA",
+    "Consumer Goods",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "Williamson Tea Kenya Ltd",
+    "WTK",
+    "Agriculture",
+    "KE",
+    "",
+    0
+   ],
+   [
+    "WPP Scangroup Ltd",
+    "SCAN",
+    "Media",
+    "KE",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "RSE",
+  "n": "Rwanda Stock Exchange",
+  "cc": "RW",
+  "f": "🇷🇼",
+  "src": "https://rse.rw/listed-compagnies",
+  "asOf": "2026-10-23",
+  "rows": [
+   [
+    "Bank of Kigali Group PLC",
+    "BOK",
+    "Banking",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "BRALIRWA PLC",
+    "BLR",
+    "Consumer Goods",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "CIMERWA PLC",
+    "CMR",
+    "Manufacturing",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "Equity Group Holdings PLC",
+    "EQTY",
+    "Banking",
+    "KE",
+    "",
+    1
+   ],
+   [
+    "I&M Bank Rwanda PLC",
+    "IMR",
+    "Banking",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "KCB Group PLC (Kenya Commercial Bank)",
+    "KCB",
+    "Banking",
+    "KE",
+    "",
+    1
+   ],
+   [
+    "MTN Rwanda PLC",
+    "MTNR",
+    "Telecommunications",
+    "RW",
+    "",
+    0
+   ],
+   [
+    "Nation Media Group PLC",
+    "NMG",
+    "Media",
+    "KE",
+    "",
+    1
+   ],
+   [
+    "RH Bophelo PLC",
+    "RHB",
+    "Healthcare",
+    "ZA",
+    "",
+    1
+   ],
+   [
+    "Uchumi Supermarket PLC",
+    "USL",
+    "Retail",
+    "KE",
+    "",
+    1
+   ]
+  ]
+ },
+ {
+  "x": "JSE",
+  "n": "Johannesburg Stock Exchange (JSE)",
+  "cc": "ZA",
+  "f": "🇿🇦",
+  "src": "https://stockanalysis.com/list/johannesburg-stock-exchange/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "4Sight Holdings Limited",
+    "4SI",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Absa Group Limited",
+    "ABG",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Accelerate Property Fund Limited",
+    "APF",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Acsion Limited",
+    "ACS",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Adcorp Holdings Limited",
+    "ADR",
+    "Business Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "ADvTECH Limited",
+    "ADH",
+    "Education",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "AECI Ltd",
+    "AFE",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Afine Investments Limited",
+    "ANI",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Africa Bitcoin Corporation Limited",
+    "BAC",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "African and Overseas Enterprises Limited",
+    "AON/AOO",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "African Dawn Capital Limited",
+    "ADW",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "African Media Entertainment Limited",
+    "AME",
+    "Media",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "African Rainbow Minerals Limited",
+    "ARI",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Afrimat Limited",
+    "AFT",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "AfroCentric Investment Corporation Limited",
+    "ACT",
+    "Healthcare",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Aimia Inc.",
+    "AII",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Alexander Forbes Group Holdings Limited",
+    "AFH",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Alphamin Resources Corp.",
+    "APH",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Altron Limited",
+    "AEL",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Anglo American plc",
+    "AGL",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "AngloGold Ashanti plc",
+    "ANG",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Anheuser-Busch InBev SA/NV",
+    "ANH",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Araxi Limited",
+    "AXX",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "ArcelorMittal South Africa Limited",
+    "ACL",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Argent Industrial Limited",
+    "ART",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "ASP Isotopes Inc.",
+    "ISO",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Aspen Pharmacare Holdings Limited",
+    "APN",
+    "Healthcare",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Astral Foods Limited",
+    "ARL",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Attacq Limited",
+    "ATT",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Aveng Limited",
+    "AEG",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "AVI Limited",
+    "AVI",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Balwin Properties Limited",
+    "BWN",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Bell Equipment Limited",
+    "BEL",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "BHP Group Limited",
+    "BHG",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Bid Corporation Limited",
+    "BID",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Blu Label Unlimited Group Limited",
+    "BLU",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Bowler Metcalf Limited",
+    "BCF",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Boxer Retail Limited",
+    "BOX",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Brait PLC",
+    "BAT",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Brikor Limited",
+    "BIK",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Brimstone Investment Corporation Limited",
+    "BRN/BRT",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "British American Tobacco p.l.c.",
+    "BTI",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Burstone Group Limited",
+    "BTN",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Bytes Technology Group plc",
+    "BYI",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "CA Sales Holdings Limited",
+    "CAA",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "CAFCA Limited",
+    "CAC",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Calgro M3 Holdings Limited",
+    "CGR",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Canal+ SA",
+    "CNP",
+    "Media",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Capitec Limited",
+    "CPI",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Cashbuild Limited",
+    "CSB",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Castleview Property Fund Limited",
+    "CVW",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Caxton and CTP Publishers and Printers Limited",
+    "CAT",
+    "Media",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Cell C Holdings Limited",
+    "CCD",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Choppies Enterprises Limited",
+    "CHP",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Cilo Cybin Holdings Limited",
+    "CCC",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "City Lodge Hotels Limited",
+    "CLH",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Clicks Group Limited",
+    "CLS",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Collins Property Group Limited",
+    "CPP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Combined Motor Holdings Limited",
+    "CMH",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Compagnie Financière Richemont SA",
+    "CFR",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Copper 360 Limited",
+    "CPR",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Coronation Fund Managers Limited",
+    "CML",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Crookes Brothers Limited",
+    "CKS",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Datatec Limited",
+    "DTC",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Delta Property Fund Limited",
+    "DLT",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Deneb Investments Limited",
+    "DNB",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Dipula Properties Limited",
+    "DIB",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Dis-Chem Pharmacies Limited",
+    "DCP",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Discovery Limited",
+    "DSY",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "DRDGOLD Limited",
+    "DRD",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Eastern Platinum Limited",
+    "EPS",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Efora Energy Limited",
+    "EEL",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "eMedia Holdings Limited",
+    "EMH/EMN",
+    "Media",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Emira Property Fund Limited",
+    "EMI",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "enX Group Limited",
+    "ENX",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "EPE Capital Partners Ltd",
+    "EPE",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Equites Property Fund Limited",
+    "EQU",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Europa Metals Limited",
+    "EUZ",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Exemplar REITail Limited",
+    "EXP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Exxaro Resources Limited",
+    "EXX",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Fairvest Limited",
+    "FTA/FTB",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Famous Brands Limited",
+    "FBR",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Finbond Group Limited",
+    "FGL",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "FirstRand Limited",
+    "FSR",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Fortress Real Estate Investments Limited",
+    "FFB",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Frontier Transport Holdings Limited",
+    "FTH",
+    "Transport",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Gemfields Group Limited",
+    "GML",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Glencore plc",
+    "GLN",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Globe Trade Centre S.A.",
+    "GTC",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Gold Fields Limited",
+    "GFI",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Grand Parade Investments Limited",
+    "GPL",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Greencoat Renewables PLC",
+    "GCT",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Grindrod Limited",
+    "GND",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Growthpoint Properties Limited",
+    "GRT",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Hammerson Plc",
+    "HMN",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Harmony Gold Mining Company Limited",
+    "HAR",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Heriot REIT Limited",
+    "HET",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Hosken Consolidated Investments Limited",
+    "HCI",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Hudaco Industries Limited",
+    "HDC",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Huge Group Limited",
+    "HUG",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Hulamin Limited",
+    "HLM",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Hyprop Investments Limited",
+    "HYP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Impala Platinum Holdings Limited",
+    "IMP",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Insimbi Industrial Holdings Limited",
+    "ISB",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Investec Group",
+    "INL/INP",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Invicta Holdings Limited",
+    "IVT",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "iOCO Limited",
+    "IOC",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "ISA Holdings Limited",
+    "ISA",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Italtile Limited",
+    "ITE",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "JSE Limited",
+    "JSE",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Jubilee Metals Group PLC",
+    "JBL",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "KAL Group Limited",
+    "KAL",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "KAP Limited",
+    "KAP",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Karooooo Ltd.",
+    "KRO",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Kore Potash plc",
+    "KP2",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Kumba Iron Ore Limited",
+    "KIO",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Labat Africa Limited",
+    "LAB",
+    "Business Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Lesaka Technologies, Inc.",
+    "LSK",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Lewis Group Limited",
+    "LEW",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Libstar Holdings Limited",
+    "LBR",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Life Healthcare Group Holdings Limited",
+    "LHC",
+    "Healthcare",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Lighthouse Properties p.l.c.",
+    "LTE",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mahube Infrastructure Limited",
+    "MHB",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mantengu Limited",
+    "MTU",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Marshall Monteagle PLC",
+    "MMP",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "MAS P.L.C.",
+    "MSP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Master Drilling Group Limited",
+    "MDI",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "MC Mining Limited",
+    "MCZ",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Merafe Resources Limited",
+    "MRF",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Metair Investments Limited",
+    "MTA",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Momentum Group Limited",
+    "MTM",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mondi plc",
+    "MNP",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Montauk Renewables, Inc.",
+    "MKR",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Motus Holdings Limited",
+    "MTH",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mpact Limited",
+    "MPT",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mr Price Group Limited",
+    "MRP",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "MTN Group Limited",
+    "MTN",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Mustek Limited",
+    "MST",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Nampak Limited",
+    "NPK",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Naspers Limited",
+    "NPN",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Nedbank Group Limited",
+    "NED",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "NEPI Rockcastle N.V.",
+    "NRP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Netcare Limited",
+    "NTC",
+    "Healthcare",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Newpark REIT Limited",
+    "NRL",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Nictus Limited",
+    "NCS",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Ninety One Group",
+    "N91/NY1",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Northam Platinum Holdings Limited",
+    "NPH",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Novus Holdings Limited",
+    "NVS",
+    "Media",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Nu-World Holdings Limited",
+    "NWL",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Numeral Limited",
+    "XII",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Nutun Limited",
+    "NTU",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Oando PLC",
+    "OAO",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Oasis Crescent Property Fund",
+    "OAS",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Oceana Group Limited",
+    "OCE",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Octodec Investments Limited",
+    "OCT",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Old Mutual Limited",
+    "OMU",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Omnia Holdings Limited",
+    "OMN",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Optasia Limited",
+    "OPA",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Orion Minerals Limited",
+    "ORN",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "OUTsurance Group Limited",
+    "OUT",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Pan African Resources PLC",
+    "PAN",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "PBT Holdings Limited",
+    "PBG/PBT",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Pepkor Holdings Limited",
+    "PPH",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Pick n Pay Stores Limited",
+    "PIK",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "PowerFleet, Inc.",
+    "PWR",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "PPC Ltd",
+    "PPC",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Premier Group Limited",
+    "PMR",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Primary Health Properties Plc",
+    "PHP",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Primeserv Group Limited",
+    "PMV",
+    "Business Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Prosus N.V.",
+    "PRX",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "PSG Financial Services Limited",
+    "KST",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Purple Group Limited",
+    "PPE",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Putprop Limited",
+    "PPR",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Quantum Foods Holdings Ltd",
+    "QFH",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Quilter plc",
+    "QLT",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Rainbow Chicken Limited",
+    "RBO",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Randgold & Exploration Company Limited",
+    "RNG",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Raubex Group Limited",
+    "RBX",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "RCL Foods Limited",
+    "RCL",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Redefine Properties Limited",
+    "RDF",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Reinet Investments S.C.A.",
+    "RNI",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Remgro Limited",
+    "REM",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Resilient REIT Limited",
+    "RES",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Reunert Limited",
+    "RLO",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Rex Trueform Group Limited",
+    "RTN/RTO",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "RH Bophelo Limited",
+    "RHB",
+    "Healthcare",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "RMB Holdings Limited",
+    "RMH",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "SA Corporate Real Estate Limited",
+    "SAC",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "SAB Zenzele Kabili Holdings (RF) Limited",
+    "SZK",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sable Exploration and Mining Limited",
+    "SXM",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sabvest Capital Limited",
+    "SBP",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Salungano Group Limited",
+    "SLG",
+    "Business Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sanlam Limited",
+    "SLM",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Santam Ltd",
+    "SNT",
+    "Insurance",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Santova Limited",
+    "SNV",
+    "Transport",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sappi Limited",
+    "SAP",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sasol Limited",
+    "SOL/SOLBE1",
+    "Energy",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Schroder European Real Estate Investment Trust Plc",
+    "SCD",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sea Harvest Group Limited",
+    "SHG",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sebata Holdings Limited",
+    "SEB",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sephaku Holdings Limited",
+    "SEP",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Shaftesbury Capital PLC",
+    "SHC",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Shoprite Holdings Ltd",
+    "SHP",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Shuka Minerals Plc",
+    "SKA",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sibanye Stillwater Limited",
+    "SSW",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sirius Real Estate Limited",
+    "SRE",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "South Ocean Holdings Limited",
+    "SOH",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "South32 Limited",
+    "S32",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Southern Palladium Limited",
+    "SDL",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Southern Sun Limited",
+    "SSU",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Spear Reit Limited",
+    "SEA",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Spur Corporation Ltd",
+    "SUR",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Stadio Holdings Limited",
+    "SDO",
+    "Education",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Standard Bank Group Limited",
+    "SBK",
+    "Banking",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Stefanutti Stocks Holdings Limited",
+    "SSK",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Stor-Age Property REIT Limited",
+    "SSS",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sun International Limited",
+    "SUI",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Super Group Limited",
+    "SPG",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Supermarket Income REIT plc",
+    "SRI",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Sygnia Limited",
+    "SYG",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "TeleMasters Holdings Limited",
+    "TLM",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Telkom SA SOC Ltd",
+    "TKG",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Texton Property Fund Limited",
+    "TEX",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Tharisa plc",
+    "THA",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "The Bidvest Group Limited",
+    "BVT",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "The Foschini Group Limited",
+    "TFG",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "The SPAR Group Ltd",
+    "SPP",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Thungela Resources Limited",
+    "TGA",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Tiger Brands Limited",
+    "TBS",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Transpaco Limited",
+    "TPC",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Trellidor Holdings Limited",
+    "TRL",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Trematon Capital Investments Limited",
+    "TMT",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Trustco Group Holdings Limited",
+    "TTO",
+    "Financial Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Truworths International Limited",
+    "TRU",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Tsogo Sun Limited",
+    "TSG",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Universal Partners Limited",
+    "UPL",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Valterra Platinum Limited",
+    "VAL",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Visual International Holdings Limited",
+    "VIS",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Vodacom Group Limited",
+    "VOD",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Vukile Property Fund Limited",
+    "VKE",
+    "Real Estate",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Vunani Limited",
+    "VUN",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "We Buy Cars Holdings Limited",
+    "WBC",
+    "Consumer Services",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Weaver Fintech Ltd",
+    "WVR",
+    "Technology",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Wesizwe Platinum Limited",
+    "WEZ",
+    "Mining",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Wilson Bayly Holmes-Ovcon Limited",
+    "WBO",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Woolworths Holdings Limited",
+    "WHL",
+    "Retail",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "YeboYethu (RF) Limited",
+    "YYLBEE",
+    "Telecommunications",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "York Timber Holdings Limited",
+    "YRK",
+    "Consumer Goods",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Zeda Limited",
+    "ZZD",
+    "Industrials",
+    "ZA",
+    "",
+    0
+   ],
+   [
+    "Zeder Investments Ltd.",
+    "ZED",
+    "Investment",
+    "ZA",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "EGX",
+  "n": "The Egyptian Exchange (EGX)",
+  "cc": "EG",
+  "f": "🇪🇬",
+  "src": "https://stockanalysis.com/list/egyptian-stock-exchange/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "A Capital Holding",
+    "ACAP",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Abu Dhabi Islamic Bank - Egypt",
+    "ADIB",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Abu Qir Fertilizers & Chemical Industries",
+    "ABUK",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Act Financial",
+    "ACTF",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "AJWA for Food Industries Egypt",
+    "AJWA",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Ahly for Development & Investment",
+    "AFDI",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Baraka Bank Egypt",
+    "SAUD",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Ezz Ceramics & Porcelain (Gemma)",
+    "ECAP",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Khair River for Development, Agricultural Investment and Environmental Services",
+    "KRDI",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Shams Company for Housing and Urban Development",
+    "ELSH",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Al Tawfeek Leasing Company",
+    "ATLC",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria Co. for Pharmaceuticals & Chemical Industries",
+    "AXPH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria Container & Cargo Handling",
+    "ALCN",
+    "Transport",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria Flour Mills",
+    "AFMC",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria Mineral Oils Company",
+    "AMOC",
+    "Energy",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria New Medical Center",
+    "AMES",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Alexandria Spinning & Weaving",
+    "SPIN",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Amer Group Holding",
+    "AMER",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Aluminum Company",
+    "ALUM",
+    "Basic Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Co. for Asset Management and Development",
+    "ACAMD",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Company for Land Reclamation",
+    "EALR",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Dairy Products Co. (Panda)",
+    "ADPC",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Developers Holding",
+    "ARAB",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Engineering Industries",
+    "EEII",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Moltaqa Investments",
+    "AMIA",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arab Real Estate Investment Co. (Alico)",
+    "RREI",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabia Cotton Ginning Company",
+    "ACGC",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabia for Investment and Development",
+    "AIDC",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabia Investments Holding",
+    "AIHC",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabian Cement Company",
+    "ARCC",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabian Food Industries (Domty)",
+    "DOMT",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Arabian Metal Industries and Industrial Investments",
+    "AMII",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "ASEC Company for Mining (ASCOM)",
+    "ASCM",
+    "Mining",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Aspire Capital Holding for Financial Investments",
+    "ASPI",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Atlas for Investment & Food Industries",
+    "ALRA",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "B Investments Holding",
+    "BINV",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Beltone Holding",
+    "BTFH",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Bonyan for Development and Trade",
+    "BONY",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cairo Educational Services",
+    "CAED",
+    "Education",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cairo for Housing and Development",
+    "ELKA",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cairo for Investment and Real Estate Development (CIRA Education)",
+    "CIRA",
+    "Education",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cairo Oil & Soap Company",
+    "COSG",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cairo Poultry Company",
+    "POUL",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Canal Shipping Agencies",
+    "CSAG",
+    "Transport",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Catalyst Partners Middle East",
+    "CPME",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "CI Capital Holding for Financial Investments",
+    "CICH",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Cleopatra Hospitals Group",
+    "CLHO",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Commercial International Bank Egypt (CIB)",
+    "COMI",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Concrete Fashion Group for Commercial and Industrial Investments",
+    "CFGH",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Contact Financial Holding",
+    "CNFN",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Copper for Commercial Investment & Real Estate Development",
+    "COPR",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Creast Mark for Contracting and Real Estate Development",
+    "CRST",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Credit Agricole Egypt",
+    "CIEB",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Damietta Container & Cargo Handling",
+    "DCCC",
+    "Transport",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Delta Co. for Printing & Packaging",
+    "DTPP",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Delta Insurance Company",
+    "DEIN",
+    "Insurance",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Delta Sugar Company",
+    "SUGR",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Development & Engineering Consultants",
+    "DAPH",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Dice for Ready-Made Garments",
+    "DSCW",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Digitize for Investment and Technology",
+    "DGTZ",
+    "Technology",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "e-finance for Digital and Financial Investments",
+    "EFIH",
+    "Technology",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "East Delta Flour Mills",
+    "EDFM",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Eastern Company",
+    "EAST",
+    "Consumer Goods",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Edita Food Industries",
+    "EFID",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "EFG Holding",
+    "HRHO",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egypt Aluminum",
+    "EGAL",
+    "Basic Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egypt for Poultry",
+    "EPCO",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egypt Free Shops",
+    "MFSC",
+    "Retail",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egypt Gas Company",
+    "EGAS",
+    "Utilities",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Arabian Company (Themar) for Securities Brokerage",
+    "EASB",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Chemical Industries (Kima)",
+    "EGCH",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Financial and Industrial Company",
+    "EFIC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Gulf Bank",
+    "EGBE",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian International Pharmaceutical Industries (EIPICO)",
+    "PHAR",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Iron and Steel Company",
+    "IRON",
+    "Basic Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Media Production City",
+    "MPRC",
+    "Media",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Resorts Company",
+    "EGTS",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Satellite Company (Nilesat)",
+    "EGSA",
+    "Telecommunications",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptian Transport & Commercial Services (Egytrans)",
+    "ETRS",
+    "Transport",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Egyptians for Housing & Development",
+    "EHDR",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Ahram Co. for Printing and Packaging",
+    "EPPK",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Ebour Co. for Real Estate Investment",
+    "OBRI",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Kahera El Watania Investment",
+    "KWIN",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Nasr Clothing & Textiles (KABO)",
+    "KABO",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Nasr Manufacturing Agricultural Crops",
+    "ELNA",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Nile Co. for Pharmaceuticals and Chemical Industries",
+    "NIPH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Orouba Securities Brokerage",
+    "EOSB",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Saeed Company for Contracting and Real Estate Investment (SCCD)",
+    "UEGC",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Shams Pyramids Co. for Hotels & Touristic Projects",
+    "SPHT",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "El Wadi for International and Investment Development",
+    "ELWA",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Electro Cable Egypt",
+    "ELEC",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Elsewedy Electric",
+    "SWDY",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Emaar Misr for Development",
+    "EMFD",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Export Development Bank of Egypt",
+    "EXPA",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Extracted Oils & Derivatives",
+    "ZEOT",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Faisal Islamic Bank of Egypt (also FAITA, USD line)",
+    "FAIT",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Fawry for Banking Technology and Electronic Payments",
+    "FWRY",
+    "Technology",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Ferchem Misr for Fertilizers and Chemicals",
+    "FERC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Gadwa for Industrial Development",
+    "GDWA",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "GB Corp",
+    "GBCO",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "General Company for Ceramic and Porcelain Products (Shinni)",
+    "PRCL",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "General Company for Land Reclamation, Development & Reconstruction",
+    "AALR",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "General Company for Silos & Storage",
+    "GSSC",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Gharbia Islamic Housing Development",
+    "GIHD",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Giza General Contracting and Real Estate Investment",
+    "GGCC",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "GlaxoSmithKline Egypt",
+    "BIOC",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "GMC Group for Industrial, Commercial & Financial Investments",
+    "GMCI",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Go Green for Agricultural Investment and Development",
+    "GGRN",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Golden Pyramids Plaza",
+    "GPPL",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Golden Textiles & Clothes Wool",
+    "GTWL",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Gourmet Egypt.com Foods",
+    "GOUR",
+    "Retail",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "GPI for Urban Growth",
+    "GPIM",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Grand Capital for Financial Investments",
+    "GRCA",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "GTEX for Commercial and Industrial Investments",
+    "GTEX",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Gulf Canadian Company for Arab Real Estate Investment",
+    "CCRS",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Heliopolis Company for Housing & Development",
+    "HELI",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Housing and Development Bank",
+    "HDBK",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Ibnsina Pharma",
+    "ISPH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Industrial & Engineering Projects",
+    "IEEC",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Industrial Engineering Company for Construction and Development (ICON)",
+    "ENGC",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "International Co. for Investment & Development",
+    "ICID",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "International Company for Agricultural Crops",
+    "IFAP",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "International Company for Fertilizers and Chemicals",
+    "ICFC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "International Company for Leasing (Incolease)",
+    "ICLE",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "International Company for Medical Industries (ICMI)",
+    "FCMD",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Iron & Steel for Mines & Quarries",
+    "ISMQ",
+    "Mining",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Ismailia Development and Real Estate",
+    "IDRE",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Ismailia Misr Poultry",
+    "ISMA",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Ismailia National Co. for Food Industries",
+    "INFI",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Juhayna Food Industries",
+    "JUFO",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Kafr El Zayat for Pesticides & Chemicals",
+    "KZPC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Kahira Pharmaceuticals & Chemical Industries",
+    "CPCI",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Korra for Energy and Investment Projects",
+    "KORA",
+    "Energy",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Lecico Egypt",
+    "LCSW",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Lotus for Agricultural Investments and Development",
+    "LUTS",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "M.B for Engineering & Contracting",
+    "MBEG",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Macro Group Pharmaceuticals (Macro Capital)",
+    "MCRO",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Madinet Masr for Housing and Development",
+    "MASR",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Mansoura Poultry",
+    "MPCO",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Maridive and Oil Services",
+    "MOIL",
+    "Energy",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Marsa Marsa Alam for Tourism Development",
+    "MMAT",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Marseille Almasreia Alkhalegeya for Holding Investment",
+    "MAAL",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Medical Packaging Company",
+    "MEPA",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Memphis Pharmaceuticals & Chemical Industries",
+    "MPCI",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Mena for Touristic & Real Estate Investment",
+    "MENA",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Middle & West Delta Flour Mills",
+    "WCDF",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Middle East Glass Manufacturing",
+    "MEGM",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Middle Egypt Flour Mills",
+    "CEFM",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Minapharm Pharmaceuticals",
+    "MIPH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Beni Suef Cement",
+    "MBSC",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Cement (Qena)",
+    "MCQE",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Chemical Industries",
+    "MICH",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Fertilizers Production Company (MOPCO)",
+    "MFPC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Hotels Company",
+    "MHOT",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr National Steel - Ataqa",
+    "ATQA",
+    "Basic Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Misr Oils & Soap",
+    "MOSC",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "MM Group for Industry and International Trade",
+    "MTIE",
+    "Retail",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Mohandes Insurance Company",
+    "MOIN",
+    "Insurance",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Naeem Holding for Investments",
+    "NAHO",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Naeem Real Estate Holding Group",
+    "NARE",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Nasr Company for Civil Works",
+    "NCCW",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "National Company for Housing Professional Syndicates",
+    "NHPS",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "National Drilling Company",
+    "NDRL",
+    "Energy",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "National Printing Company",
+    "NAPR",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "North Cairo Flour Mills",
+    "MILS",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Northern Upper Egypt for Development & Agricultural Production",
+    "NEDA",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Nozha International Hospital",
+    "NINH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "OB Financial Holding",
+    "OFH",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Obour Land for Food Industries",
+    "OLFI",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "October Pharma",
+    "OCPH",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "ODIN Investments",
+    "ODIN",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Orascom Construction PLC",
+    "ORAS",
+    "Construction",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Orascom Development Egypt",
+    "ORHD",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Orascom Investment Holding",
+    "OIH",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Oriental Weavers Carpets",
+    "ORWE",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Osool ESB Securities Brokerage",
+    "EBSC",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Palm Hills Developments",
+    "PHDC",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Pioneers Properties for Urban Development (PRE Group)",
+    "PRDC",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Port Said Containers and Cargo Handling",
+    "POCO",
+    "Transport",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Premium Healthcare Group",
+    "PHGC",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Prime Holding",
+    "PRMH",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Pyramisa Hotels & Resorts",
+    "PHTV",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Qala for Financial Investments",
+    "CCAP",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "QNB Egypt (Qatar National Bank Alahli)",
+    "QNBE",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Rakta Paper Manufacturing",
+    "RAKT",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Raya Customer Experience",
+    "RACC",
+    "Technology",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Raya Holding for Financial Investments",
+    "RAYA",
+    "Technology",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Real Estate Egyptian Consortium",
+    "AREH",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Remco Tourism Villages Construction",
+    "RTVC",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Rowad Tourism Company",
+    "ROTO",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Rubex International for Plastic and Acrylic Manufacturing",
+    "RUBX",
+    "Industrials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sabaa International Company for Pharmaceutical and Chemical Industry",
+    "SIPC",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Samad Misr (EGYFERT)",
+    "SMFR",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Saudi Egyptian Investment & Finance (also SEIGA, USD line)",
+    "SEIG",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sharkia National Company for Food Security",
+    "SNFC",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sharm Dreams Co. for Touristic Investment",
+    "SDTI",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sidi Kerir Petrochemicals",
+    "SKPC",
+    "Chemicals",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sinai Cement",
+    "SCEM",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Sixth of October for Development and Investment (SODIC)",
+    "OCDI",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Societe Arabe Internationale de Banque (SAIB)",
+    "SAIB",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "South Cairo and Giza Flour Mills and Bakeries",
+    "SCFM",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "South Valley Cement",
+    "SVCE",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Speed Medical",
+    "SPMD",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Suez Canal Bank",
+    "CANA",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Suez Canal Company for Technology Settling",
+    "SCTS",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Taaleem Management Services",
+    "TALM",
+    "Education",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Talaat Moustafa Group Holding",
+    "TMGH",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Tanmiya for Real Estate Investment",
+    "TANM",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "TAQA Arabia",
+    "TAQA",
+    "Utilities",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Tawasoa for Factoring",
+    "TWSA",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Telecom Egypt",
+    "ETEL",
+    "Telecommunications",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Tenth of Ramadan for Pharmaceutical Industries (Rameda)",
+    "RMDA",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "The Arab Ceramic Co. (Ceramica Remas)",
+    "CERA",
+    "Building Materials",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "The Arab Drug Company",
+    "ADCI",
+    "Healthcare",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "The Egyptian Modern Education Systems",
+    "MOED",
+    "Education",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "The United Bank",
+    "UBEE",
+    "Banking",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Trans Oceans Tours",
+    "TRTO",
+    "Tourism",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Tycoon Holding for Financial Investments",
+    "TYCN",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "U Consumer Finance (valU)",
+    "VALU",
+    "Financial Services",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Unirab Polvara Spinning & Weaving",
+    "APSW",
+    "Textiles",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "United Co. for Housing & Development",
+    "UNIT",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Universal for Paper and Packaging Materials (Unipack)",
+    "UNIP",
+    "Paper & Packaging",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Upper Egypt Flour Mills",
+    "UEFM",
+    "Food & Beverage",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Valmore Holding (also traded as VLMRA, USD line)",
+    "VLMR",
+    "Investment",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Wadi Kom Ombo for Land Reclamation",
+    "WKOL",
+    "Agriculture",
+    "EG",
+    "",
+    0
+   ],
+   [
+    "Zahraa El Maadi Investment and Development",
+    "ZMID",
+    "Real Estate",
+    "EG",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "CSE",
+  "n": "Casablanca Stock Exchange",
+  "cc": "MA",
+  "f": "🇲🇦",
+  "src": "https://stockanalysis.com/list/casablanca-stock-exchange/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "AFMA",
+    "AFM",
+    "Insurance",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Afric Industries",
+    "AFI",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Afriquia Gaz",
+    "GAZ",
+    "Energy",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Agma",
+    "AGM",
+    "Insurance",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Akdital",
+    "AKT",
+    "Healthcare",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Alliances Développement Immobilier",
+    "ADI",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Aluminium du Maroc",
+    "ALM",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Aradei Capital",
+    "ARD",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "AtlantaSanad",
+    "ATL",
+    "Insurance",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Attijariwafa bank",
+    "ATW",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Auto Hall",
+    "ATH",
+    "Retail",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Auto Nejma",
+    "NEJ",
+    "Retail",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Bank of Africa",
+    "BOA",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Banque Centrale Populaire",
+    "BCP",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Banque Marocaine pour le Commerce et l'Industrie (BMCI)",
+    "BCI",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Cartier Saada",
+    "CRS",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Cash Plus",
+    "CAP",
+    "Financial Services",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "CFG Bank",
+    "CFG",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Ciments du Maroc",
+    "CMA",
+    "Building Materials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "CMGP Group (Compagnie Marocaine de Goutte à Goutte et de Pompage)",
+    "CMG",
+    "Agriculture",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Colorado",
+    "COL",
+    "Chemicals",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Compagnie de Transports au Maroc (CTM)",
+    "CTM",
+    "Transport",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Compagnie Minière de Touissit",
+    "CMT",
+    "Mining",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Cosumar",
+    "CSR",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Crédit du Maroc",
+    "CDM",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Crédit Immobilier et Hôtelier (CIH Bank)",
+    "CIH",
+    "Banking",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Dari Couspate",
+    "DRI",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Delattre Levivier Maroc",
+    "DLM",
+    "Industrials",
+    "MA",
+    "suspended",
+    0
+   ],
+   [
+    "Delta Holding",
+    "DHO",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Diac Salaf",
+    "DIS",
+    "Financial Services",
+    "MA",
+    "suspended",
+    0
+   ],
+   [
+    "Disty Technologies",
+    "DYT",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Disway",
+    "DWY",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Douja Promotion Groupe Addoha",
+    "ADH",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Ennakl Automobiles",
+    "NKL",
+    "Retail",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "EQDOM (Société d'Équipement Domestique et Ménager)",
+    "EQD",
+    "Financial Services",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Fenie Brossette",
+    "FBR",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Hightech Payment Systems (HPS)",
+    "HPS",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Holcim Maroc",
+    "LHM",
+    "Building Materials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "IB Maroc.com",
+    "IBC",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Immorente Invest",
+    "IMO",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Involys",
+    "INV",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Itissalat Al-Maghrib (Maroc Telecom)",
+    "IAM",
+    "Telecommunications",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Jet Contractors",
+    "JET",
+    "Construction",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Label'Vie",
+    "LBV",
+    "Retail",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Les Eaux Minérales d'Oulmès",
+    "OUL",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Lesieur Cristal",
+    "LES",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "M2M Group",
+    "M2M",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Maghreb Oxygène",
+    "MOX",
+    "Chemicals",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Maghrebail (Société Maghrébine de Crédit-Bail)",
+    "MAB",
+    "Financial Services",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Managem",
+    "MNG",
+    "Mining",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Maroc Leasing",
+    "MLE",
+    "Financial Services",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Med Paper",
+    "MDP",
+    "Paper & Packaging",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Microdata",
+    "MIC",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Mutandis SCA",
+    "MUT",
+    "Consumer Goods",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Rebab Company",
+    "REB",
+    "Mining",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Risma",
+    "RIS",
+    "Tourism",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Résidences Dar Saada",
+    "RDS",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Salafin",
+    "SLF",
+    "Financial Services",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Samir",
+    "SAM",
+    "Energy",
+    "MA",
+    "suspended",
+    0
+   ],
+   [
+    "SanlamAllianz Maroc",
+    "SAH",
+    "Insurance",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société d'Exploitation des Ports (Marsa Maroc)",
+    "MSA",
+    "Transport",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société de Promotion Pharmaceutique du Maghreb (Promopharm)",
+    "PRO",
+    "Healthcare",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société de Réalisations Mécaniques (SRM)",
+    "SRM",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société de Thérapeutique Marocaine (Sothema)",
+    "SOT",
+    "Healthcare",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société des Boissons du Maroc",
+    "SBM",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société Générale des Travaux du Maroc (SGTM)",
+    "GTM",
+    "Construction",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société Immobilière Balima",
+    "BAL",
+    "Real Estate",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société Maghrébine de Monétique (S2M)",
+    "S2M",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société Métallurgique d'Imiter (SMI)",
+    "SMI",
+    "Mining",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Société Nationale d'Électrolyse et de Pétrochimie (SNEP)",
+    "SNP",
+    "Chemicals",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Sonasid",
+    "SID",
+    "Basic Materials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Stokvis Nord Afrique",
+    "SNA",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Stroc Industrie",
+    "STR",
+    "Industrials",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "T2S Group Holding",
+    "T2S",
+    "Technology",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "TAQA Morocco",
+    "TQM",
+    "Utilities",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "TotalEnergies Marketing Maroc",
+    "TMA",
+    "Energy",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Travaux Généraux de Construction de Casablanca (TGCC)",
+    "TGC",
+    "Construction",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Unimer",
+    "UMR",
+    "Food & Beverage",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Vicenne",
+    "VCN",
+    "Healthcare",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Wafa Assurance",
+    "WAA",
+    "Insurance",
+    "MA",
+    "",
+    0
+   ],
+   [
+    "Zellidja",
+    "ZDJ",
+    "Investment",
+    "MA",
+    "",
+    0
+   ]
+  ]
+ },
+ {
+  "x": "ESX",
+  "n": "Ethiopian Securities Exchange",
+  "cc": "ET",
+  "f": "🇪🇹",
+  "src": "https://esx.et/equity-market/listed-companies/",
+  "asOf": "2026-10-26",
+  "rows": [
+   [
+    "Abay Bank Share Company",
+    "ABAYB",
+    "Banking",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Awash Bank Share Company",
+    "AWAB",
+    "Banking",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Bank of Abyssinia Share Company",
+    "BOAX",
+    "Banking",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Ethio Telecom Share Company",
+    "TELE",
+    "Telecommunications",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Gadaa Bank Share Company",
+    "GDAB",
+    "Banking",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Sidama Bank Share Company",
+    "SIDAX",
+    "Banking",
+    "ET",
+    "",
+    0
+   ],
+   [
+    "Wegagen Bank Share Company",
+    "WGBX",
+    "Banking",
+    "ET",
+    "",
+    0
+   ]
+  ]
+ }
+]

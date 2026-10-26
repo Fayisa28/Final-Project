@@ -1,0 +1,35 @@
+mode,kind,name,input,cached,output,cost,latency_ms,verdict_changed,verdict
+on,ad,genuine_1.txt,0,0,0,,2.65,False,Low
+on,ad,genuine_2.txt,0,0,0,,2.02,False,Low
+on,ad,genuine_3.txt,0,0,0,,2.02,False,Medium
+on,ad,prompt_injection.txt,0,0,0,,1.52,False,High
+on,ad,scam_overseas_visa.txt,0,0,0,,1.48,False,High
+on,ad,scam_registration_fee.txt,0,0,0,,1.49,False,High
+on,ad,scam_whatsapp_only.txt,0,0,0,,1.98,False,Medium
+on,question,Find me remote jobs,0,0,0,,0.0,True,local search answer
+on,question,Show me part-time jobs in Accra,0,0,0,,0.0,True,local search answer
+on,question,Find accounting jobs in Ghana,0,0,0,,0.0,True,local search answer
+on,question,What skills do I need for data analysis?,0,0,0,,0.0,True,local search answer
+on,question,Is this job offer a scam?,0,0,0,,0.0,True,local search answer
+on,question,Find healthcare jobs in Kenya,0,0,0,,0.0,True,local search answer
+on,question,Show me internships,0,0,0,,0.0,True,local search answer
+on,question,How do I negotiate salary?,0,0,0,,0.0,True,local search answer
+on,question,Find sales jobs in Nigeria,0,0,0,,0.0,True,local search answer
+on,question,Write a cover letter for a finance role,0,0,0,,0.0,True,local search answer
+off,ad,genuine_1.txt,0,0,0,,1.89,False,Low
+off,ad,genuine_2.txt,0,0,0,,1.91,False,Low
+off,ad,genuine_3.txt,0,0,0,,1.86,False,Medium
+off,ad,prompt_injection.txt,0,0,0,,1.43,False,High
+off,ad,scam_overseas_visa.txt,0,0,0,,1.41,False,High
+off,ad,scam_registration_fee.txt,0,0,0,,1.42,False,High
+off,ad,scam_whatsapp_only.txt,0,0,0,,1.86,False,Medium
+off,question,Find me remote jobs,0,0,0,,205.96,True,unavailable
+off,question,Show me part-time jobs in Accra,0,0,0,,195.06,True,unavailable
+off,question,Find accounting jobs in Ghana,0,0,0,,209.89,True,unavailable
+off,question,What skills do I need for data analysis?,0,0,0,,194.47,True,unavailable
+off,question,Is this job offer a scam?,0,0,0,,199.76,True,unavailable
+off,question,Find healthcare jobs in Kenya,0,0,0,,194.54,True,unavailable
+off,question,Show me internships,0,0,0,,212.19,True,unavailable
+off,question,How do I negotiate salary?,0,0,0,,188.81,True,unavailable
+off,question,Find sales jobs in Nigeria,0,0,0,,199.28,True,unavailable
+off,question,Write a cover letter for a finance role,0,0,0,,190.77,True,unavailable
